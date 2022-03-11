@@ -18,7 +18,7 @@ Aprendendo a triha front-end com os conteúdos básicos de:
 
 
 
-> Seguir tutoriais de React da semana Spring React **DevSuperior** disponíveis no [neste link](https://devsuperior.com.br/evento-sds?episodio=1).
+> Seguir tutoriais de React da semana Spring React **DevSuperior** disponíveis [neste link](https://devsuperior.com.br/evento-sds?episodio=1).
 
 
 ## Esquemas Práticos
